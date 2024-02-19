@@ -1,0 +1,15 @@
+
+PLACE ORDER
+
+1.Get cartItems to user,calculate totalAmount.
+2.Create a record for Order.
+3.Reduce the stock(product quantity).
+4.Clear the cart.
+
+5.Deduct the payement.
+6.Inform to sellers.
+7.Inform to courier.
+
+1800
+700
+=2500rs
